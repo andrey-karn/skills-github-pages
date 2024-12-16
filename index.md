@@ -5,5 +5,6 @@ This is a test page
 - item 1
 - item 2
 Next line
-definigion
+definition
+
 : explanation
